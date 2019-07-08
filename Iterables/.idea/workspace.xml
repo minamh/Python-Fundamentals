@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5460505-a910-45bb-98fb-0a15057c59fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Set_Comprehensions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary_Comprehensions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,11 +22,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Set_Comprehensions.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Dictionary_Comprehensions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="105" lean-forward="true" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="105" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -48,14 +60,15 @@
       <list>
         <option value="$PROJECT_DIR$/List_Comprehensions.py" />
         <option value="$PROJECT_DIR$/Set_Comprehensions.py" />
+        <option value="$PROJECT_DIR$/Dictionary_Comprehensions.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="3604" />
-    <option name="y" value="-15" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="3747" />
+    <option name="y" value="-16" />
     <option name="width" value="1936" />
-    <option name="height" value="1096" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -92,7 +105,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Set_Comprehensions">
+  <component name="RunManager" selected="Python.Dictionary_Comprehensions">
+    <configuration name="Dictionary_Comprehensions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Iterables" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionary_Comprehensions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="List_Comprehensions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Iterables" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,6 +171,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Dictionary_Comprehensions" />
         <item itemvalue="Python.Set_Comprehensions" />
         <item itemvalue="Python.List_Comprehensions" />
       </list>
@@ -190,6 +225,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dictionary_Comprehensions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="105" lean-forward="true" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="105" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
