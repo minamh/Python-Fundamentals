@@ -4,6 +4,7 @@ print(Words)
 '''To generate an a list comprehension, the syntax is [expression(item) for item in iterable] Fore mexample:'''
 
 print([len(word) for word in Words])
+print([len(word) for word in Words if len(word)>3])
 
 #This is the same as doing this:
 lengths = []
