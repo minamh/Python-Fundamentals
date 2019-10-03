@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f513e15-9f4e-459e-8060-20dbf5e1d804" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Files and Resource Management/Appending_to_Text_Files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Files and Resource Management/Closing_With_Context_Managers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Files and Resource Management/Context_Managers_and_with-blocks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Files and Resource Management/Managing_Files_With_Try_Finally.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Files and Resource Management/Managing_Files_With_Try_Finally2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Files and Resource Management/Reading_Text_Files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Files and Resource Management/Writing_Binary_Files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Files and Resource Management/files_as_Iterators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shipping Working and Maintainable Code/Create_Virtual_Environment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shipping Working and Maintainable Code/Debugging_With_PDB.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Shipping Working and Maintainable Code/Introduction_and_unittest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="49" column="52" selection-start-line="49" selection-start-column="52" selection-end-line="49" selection-end-column="52" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Shipping Working and Maintainable Code/Create_Virtual_Environment">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Shipping Working and Maintainable Code/Debugging_With_PDB.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Shipping Working and Maintainable Code/palindrome.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="901">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../Shipping Working and Maintainable Code/Introduction_and_unittest.py" />
+        <option value="$PROJECT_DIR$/../Shipping Working and Maintainable Code/Debugging_With_PDB.py" />
+        <option value="$PROJECT_DIR$/../Shipping Working and Maintainable Code/Create_Virtual_Environment" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1768" />
+    <option name="y" value="-15" />
+    <option name="width" value="1920" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Introduction and Unittest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shipping Working and Maintainable Code" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Doctests in palindrome">
+    <configuration name="Debugging_With_PDB" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Shipping Working and Maintainable Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Shipping Working and Maintainable Code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Shipping Working and Maintainable Code/Debugging_With_PDB.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctests in palindrome" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="Shipping Working and Maintainable Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Shipping Working and Maintainable Code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Shipping Working and Maintainable Code/palindrome.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in Introduction_and_unittest.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Shipping Working and Maintainable Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Shipping Working and Maintainable Code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/../Shipping Working and Maintainable Code/Introduction_and_unittest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Doctests in palindrome" />
+        <item itemvalue="Python.Debugging_With_PDB" />
+        <item itemvalue="Python tests.Unittests in Introduction_and_unittest.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f513e15-9f4e-459e-8060-20dbf5e1d804" name="Default Changelist" comment="" />
+      <created>1568321079235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568321079235</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_Introduction_and_unittest_py - 2019.09.12 at 15h 36m 24s.xml">
+      <configuration name="Unittests in Introduction_and_unittest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Introduction_and_unittest_py - 2019.09.27 at 11h 13m 18s.xml">
+      <configuration name="Unittests in Introduction_and_unittest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Introduction_and_unittest_py - 2019.09.27 at 14h 44m 01s.xml">
+      <configuration name="Unittests in Introduction_and_unittest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Introduction_and_unittest_py - 2019.09.27 at 14h 45m 51s.xml">
+      <configuration name="Unittests in Introduction_and_unittest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Introduction_and_unittest_py - 2019.09.27 at 14h 46m 26s.xml">
+      <configuration name="Unittests in Introduction_and_unittest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Introduction_and_unittest_py - 2019.09.27 at 15h 04m 02s.xml">
+      <configuration name="Unittests in Introduction_and_unittest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Introduction_and_unittest_py - 2019.09.27 at 15h 07m 13s.xml">
+      <configuration name="Unittests in Introduction_and_unittest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Introduction_and_unittest_py - 2019.09.27 at 15h 09m 15s.xml">
+      <configuration name="Unittests in Introduction_and_unittest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Introduction_and_unittest_py - 2019.09.27 at 15h 11m 43s.xml">
+      <configuration name="Unittests in Introduction_and_unittest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_palindrome - 2019.09.27 at 15h 17m 27s.xml">
+      <configuration name="Doctests in palindrome" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Shipping Working and Maintainable Code/Debugging_With_PDB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shipping Working and Maintainable Code/Introduction_and_unittest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="49" column="52" selection-start-line="49" selection-start-column="52" selection-end-line="49" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shipping Working and Maintainable Code/Create_Virtual_Environment">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shipping Working and Maintainable Code/palindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

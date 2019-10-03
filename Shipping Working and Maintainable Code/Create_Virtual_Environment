@@ -1,0 +1,6 @@
+py -3 -m venv venv3
+
+then
+cd venv3
+cd Scripts
+activate
